@@ -7,7 +7,7 @@ from scipy.integrate import solve_ivp
 st.set_page_config(page_title="Driven Pendulum Trajectories", layout="wide")
 
 # Title and description
-st.title("Driven Pendulum Trajectories")
+st.markdown("Driven Pendulum Trajectories")
 st.markdown("Visualize solutions to the driven pendulum equation: x''(t) = -sin(x(t)) + ε sin(t)")
 
 # Sidebar controls
