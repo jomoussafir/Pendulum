@@ -3,8 +3,8 @@
 A simple Streamlit app for perturbed 
 pendulum phase space
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
-(https://blank-app-5g2abxxtpi9.streamlit.app)
+[![Open in Streamlit]
+[https://blank-app-5g2abxxtpi9.streamlit.app]
 
 ### How to run it on your own machine
 
