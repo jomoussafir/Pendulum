@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 pendulum phase space
 
 A simple Streamlit app for perturbed 
 pendulum phase space
