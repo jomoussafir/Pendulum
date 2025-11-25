@@ -22,7 +22,7 @@ st.sidebar.markdown("---")
 st.sidebar.header("Visualization Settings")
 
 # Additional visualization controls
-linewidth = st.sidebar.slider("Line width", min_value=0.1, max_value=3.0, value=0.8, step=0.1)
+linewidth = st.sidebar.slider("Line width", min_value=0.1, max_value=10., value=0.8, step=0.1)
 alpha = st.sidebar.slider("Transparency (α)", min_value=0.1, max_value=1.0, value=0.7, step=0.05)
 
 # Define the differential equation system
